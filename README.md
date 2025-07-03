@@ -1,6 +1,6 @@
 # Unity 2D Platformer Project
 
-##Watch the Project Demo
+## Watch the Project Demo
 [![Watch the Project Demo](Assets/Sprites/thumbnail.png)](https://youtu.be/hZu5eNQU0SQ)
 ## Unity Version
 - **Tested with Unity 6000.0.24f1 LTS**  
